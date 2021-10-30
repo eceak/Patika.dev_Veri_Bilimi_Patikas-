@@ -1,2 +1,2 @@
-# Patika.dev_Veri_Bilimi_Patikas-
+# Patika.dev_Veri_Bilimi_Patikası
 Veri Bilimi Patikası
