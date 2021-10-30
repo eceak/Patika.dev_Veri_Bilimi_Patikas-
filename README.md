@@ -8,5 +8,5 @@ Insertion Sort Projesi
 Merge Sort Projesi
 ![merge sort](https://user-images.githubusercontent.com/79367972/139543660-34c0b445-2e1f-47ab-9da6-82aeb4705f2e.png)
 
-Binary Search Tree
+Binary Search Tree Projesi
 ![binary tree](https://user-images.githubusercontent.com/79367972/139547756-6539e328-1b7b-473e-8e44-ce244f9eb288.png)
